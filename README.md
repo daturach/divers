@@ -5,3 +5,5 @@ Battery holder info: https://github.com/daturach/Documentation/wiki/Battery-hold
 GPS: https://github.com/daturach/Documentation/wiki/Battery-holder-for-my-GPS
 
 Mini Maglite repair: https://github.com/daturach/Documentation/wiki/Adapter-for-Mini-Maglite-and-repair
+
+Drill press repair (STB T13): https://github.com/daturach/Documentation/wiki/STB-T13-Drill-press-repair
