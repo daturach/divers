@@ -1,5 +1,7 @@
 Hyperion and Test Controller stuff: https://github.com/daturach/Documentation/wiki/Hyperion-Charger-and-Test-Controller-(TC)-application
 
+Hyperion with Bluetooth module: https://github.com/daturach/Documentation/wiki/Hyperion-EOS1420i-Battery-Charger-with-Bluetooth-module
+
 Battery holder info: https://github.com/daturach/Documentation/wiki/Battery-holder-(UM-2X4)-for-charging-18650-batteries
 
 GPS: https://github.com/daturach/Documentation/wiki/Battery-holder-for-my-GPS
