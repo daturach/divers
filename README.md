@@ -12,3 +12,4 @@ Drill press repair (STB T13): https://github.com/daturach/Documentation/wiki/STB
 
 Data sniffer box: https://github.com/daturach/Documentation/wiki/Data-sniffer-box
 
+Data sniffer with Bluetooth module: https://github.com/daturach/Documentation/wiki/Data-sniffer-with-Bluetooth-module
