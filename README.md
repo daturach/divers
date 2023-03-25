@@ -17,3 +17,5 @@ Data sniffer with Bluetooth module: https://github.com/daturach/Documentation/wi
 Data sniffer box (Yep, another one): https://github.com/daturach/Documentation/wiki/Data-sniffer-box-(yep,-another-one)
 
 Historical flashlight mods: https://github.com/daturach/Documentation/wiki/Historical-flashlight-mods
+
+Mini solar flashlight Rubytec repaired: https://github.com/daturach/Documentation/wiki/Mini-solar-flashlight-Rubytec-repaired
