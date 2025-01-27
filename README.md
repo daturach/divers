@@ -21,3 +21,5 @@ Historical flashlight mods: https://github.com/daturach/Documentation/wiki/Histo
 Mini solar flashlight Rubytec repaired: https://github.com/daturach/Documentation/wiki/Mini-solar-flashlight-Rubytec-repaired
 
 Peugeot 405 Break: réparation rétroviseur gauche: https://github.com/daturach/Documentation/wiki/Peugeot-405-Break:-r%C3%A9paration-r%C3%A9troviseur-gauche
+
+Improving the handy stick: The sofa Edition: https://github.com/daturach/Documentation/wiki/Improving-the-handy-stick:-The-sofa-Edition
