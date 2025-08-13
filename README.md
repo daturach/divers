@@ -23,3 +23,5 @@ Mini solar flashlight Rubytec repaired: https://github.com/daturach/Documentatio
 Peugeot 405 Break: réparation rétroviseur gauche: https://github.com/daturach/Documentation/wiki/Peugeot-405-Break:-r%C3%A9paration-r%C3%A9troviseur-gauche
 
 Improving the handy stick: The sofa Edition: https://github.com/daturach/Documentation/wiki/Improving-the-handy-stick:-The-sofa-Edition
+
+Power supply repair and reverse engineering the board: https://github.com/daturach/Documentation/wiki/Power-supply-repair-and-reverse-engineering-the-board
